@@ -1,0 +1,59 @@
+[INFO ] 2021-11-18 19:28:59.959 [main] driverClass - HomePage gets displayed successfully.
+[INFO ] 2021-11-18 19:29:21.674 [main] driverClass - Product is added to cart.
+[INFO ] 2021-11-18 19:29:25.611 [main] driverClass - Product is present in cart. Continue Shopping.
+[INFO ] 2021-11-18 19:29:33.019 [main] driverClass - Browser closed after termination of test
+[INFO ] 2021-11-18 19:29:48.467 [main] driverClass - HomePage gets displayed successfully.
+[INFO ] 2021-11-18 19:30:48.636 [main] driverClass - Browser closed after termination of test
+[INFO ] 2021-11-18 19:31:04.304 [main] driverClass - HomePage gets displayed successfully.
+[INFO ] 2021-11-18 19:31:14.228 [main] driverClass - Birthday Gifts for Girls gets displayed successfully.
+[INFO ] 2021-11-18 19:31:19.733 [main] driverClass - Browser closed after termination of test
+[INFO ] 2021-11-18 19:31:37.112 [main] driverClass - HomePage gets displayed successfully.
+[INFO ] 2021-11-18 19:31:44.424 [main] driverClass - Gift card verified and added to Cart successfully.
+[INFO ] 2021-11-18 19:31:49.069 [main] driverClass - Browser closed after termination of test
+[INFO ] 2021-11-18 19:32:15.290 [main] driverClass - HomePage gets displayed successfully.
+[ERROR] 2021-11-18 19:32:28.108 [main] driverClass - Login is unsuccessful
+[INFO ] 2021-11-18 19:32:34.109 [main] driverClass - Browser closed after termination of test
+[INFO ] 2021-11-18 19:32:49.937 [main] driverClass - HomePage gets displayed successfully.
+[INFO ] 2021-11-18 19:33:37.213 [main] driverClass - Browser closed after termination of test
+[INFO ] 2021-11-18 19:33:51.625 [main] driverClass - HomePage gets displayed successfully.
+[INFO ] 2021-11-18 19:34:04.314 [main] driverClass - Product title verified and successfully added to cart
+[INFO ] 2021-11-18 19:34:08.842 [main] driverClass - Browser closed after termination of test
+[INFO ] 2021-11-18 19:34:17.316 [main] driverClass - HomePage gets displayed successfully.
+[INFO ] 2021-11-18 19:34:27.952 [main] driverClass - Product title verified and successfully added to cart
+[INFO ] 2021-11-18 19:34:32.430 [main] driverClass - Browser closed after termination of test
+[INFO ] 2021-11-18 19:34:42.670 [main] driverClass - HomePage gets displayed successfully.
+[INFO ] 2021-11-18 19:34:56.127 [main] driverClass - Product title verified and successfully added to wishlist
+[INFO ] 2021-11-18 19:35:06.697 [main] driverClass - Browser closed after termination of test
+[INFO ] 2021-11-18 19:35:16.425 [main] driverClass - HomePage gets displayed successfully.
+[INFO ] 2021-11-18 19:35:21.724 [main] driverClass - What's New page gets displayed successfully.
+[INFO ] 2021-11-18 19:35:26.736 [main] driverClass - Browser closed after termination of test
+[INFO ] 2021-11-19 10:35:29.848 [main] driverClass - HomePage gets displayed successfully.
+[INFO ] 2021-11-19 10:35:43.792 [main] driverClass - Product is added to cart.
+[INFO ] 2021-11-19 10:35:46.528 [main] driverClass - Product is present in cart. Continue Shopping.
+[INFO ] 2021-11-19 10:35:54.028 [main] driverClass - Browser closed after termination of test
+[INFO ] 2021-11-19 10:36:09.012 [main] driverClass - HomePage gets displayed successfully.
+[INFO ] 2021-11-19 10:37:13.699 [main] driverClass - Browser closed after termination of test
+[INFO ] 2021-11-19 10:37:31.970 [main] driverClass - HomePage gets displayed successfully.
+[INFO ] 2021-11-19 10:37:40.290 [main] driverClass - Birthday Gifts for Girls gets displayed successfully.
+[INFO ] 2021-11-19 10:37:46.444 [main] driverClass - Browser closed after termination of test
+[INFO ] 2021-11-19 10:38:00.407 [main] driverClass - HomePage gets displayed successfully.
+[INFO ] 2021-11-19 10:38:07.029 [main] driverClass - Gift card verified and added to Cart successfully.
+[INFO ] 2021-11-19 10:38:12.719 [main] driverClass - Browser closed after termination of test
+[INFO ] 2021-11-19 10:38:30.106 [main] driverClass - HomePage gets displayed successfully.
+[ERROR] 2021-11-19 10:38:38.060 [main] driverClass - Login is unsuccessful
+[INFO ] 2021-11-19 10:38:43.457 [main] driverClass - Browser closed after termination of test
+[INFO ] 2021-11-19 10:38:56.347 [main] driverClass - HomePage gets displayed successfully.
+[INFO ] 2021-11-19 10:39:01.007 [main] driverClass - Whatsapp web gets launched successfully.
+[INFO ] 2021-11-19 10:39:06.663 [main] driverClass - Browser closed after termination of test
+[INFO ] 2021-11-19 10:39:17.993 [main] driverClass - HomePage gets displayed successfully.
+[INFO ] 2021-11-19 10:39:29.223 [main] driverClass - Product title verified and successfully added to cart
+[INFO ] 2021-11-19 10:39:35.003 [main] driverClass - Browser closed after termination of test
+[INFO ] 2021-11-19 10:39:52.119 [main] driverClass - HomePage gets displayed successfully.
+[INFO ] 2021-11-19 10:40:01.185 [main] driverClass - Product title verified and successfully added to cart
+[INFO ] 2021-11-19 10:40:06.913 [main] driverClass - Browser closed after termination of test
+[INFO ] 2021-11-19 10:40:20.419 [main] driverClass - HomePage gets displayed successfully.
+[INFO ] 2021-11-19 10:40:35.043 [main] driverClass - Product title verified and successfully added to wishlist
+[INFO ] 2021-11-19 10:40:42.050 [main] driverClass - Browser closed after termination of test
+[INFO ] 2021-11-19 10:40:58.119 [main] driverClass - HomePage gets displayed successfully.
+[INFO ] 2021-11-19 10:41:02.458 [main] driverClass - What's New page gets displayed successfully.
+[INFO ] 2021-11-19 10:41:08.787 [main] driverClass - Browser closed after termination of test
